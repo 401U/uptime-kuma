@@ -9,7 +9,7 @@
     "upsideDownModeDescription": "反转状态监控，如果服务可访问，则认为是故障。",
     "maxRedirectDescription": "允许的最大重定向次数。设置为 0 禁用重定向。",
     "enableGRPCTls": "允许通过 TLS 连接发送 gRPC 请求",
-    "grpcMethodDescription": "方法名会转换为小驼峰格式，例如 sayHello、check 等等",
+    "grpcMethodDescription": "方法名会转换为小驼峰格式，例如 sayHello、check 等等。",
     "acceptedStatusCodesDescription": "选择被视为成功响应的状态码。",
     "Maintenance": "维护",
     "statusMaintenance": "维护",
@@ -679,5 +679,6 @@
     "high": "高价",
     "General Monitor Type": "常规监控类型",
     "Passive Monitor Type": "被动监控类型",
-    "Specific Monitor Type": "针对监控类型"
+    "Specific Monitor Type": "针对监控类型",
+    "Custom": "自定义"
 }
